@@ -1,0 +1,191 @@
+body {
+    font-family: Roboto, sans-serif;
+    color:#434455;
+    line-height: 1.5;
+    font-weight: Regular;
+    font-style: normal;
+    background-color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2, h3 {
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Contacts(header) */
+
+.contacts-header {
+    font-style: normal;
+}
+
+.email {
+    color: #434455;
+    letter-spacing: 0.32px;
+}
+
+.email:hover, .email:focus {
+    color: #404BBF;
+}
+
+/* Logotype */
+
+.logo {
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    line-height: 117%;
+    color: #4D5AE5;
+}
+
+header .studio-logo {
+    color: #2E2F42;
+}
+
+/* Navigation */
+
+.nav-studio {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    color: #2E2F42;
+}
+
+.nav-studio:hover, .nav-studio:focus{
+    color: #404BBF; 
+}
+
+/* First section */
+
+.first-section {
+    background-color: #2E2F42;
+}
+
+.main-heading {
+    color: #fff;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 107.143%;
+    letter-spacing: 1.12px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.head-button {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.64px;
+    color: #fff;
+    background-color: #4D5AE5;
+    font-family: Roboto, sans-serif;
+    line-height: 150%;
+
+}
+
+.head-button:hover, .head-button:focus {
+    background-color: #404BBF;
+}
+
+/* Second Section */
+
+.second-section-title {
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    font-weight: 500;
+    line-height: 120%;
+
+}
+
+.second-section-text {
+    font-size: 16px;
+    letter-spacing: 0.32px;
+}
+
+/* Third Section */
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section-main-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111.111%;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.lishka {
+    background-color: #ffffff;
+}
+
+.third-section-title {
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.third-section-text {
+    font-size: 16px;
+    letter-spacing: 0.32px;
+}
+
+/* Forth section */
+
+.forth-section-main-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111.111%;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+.forth-section-title {
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.forth-section-text {
+    font-size: 16px;
+    letter-spacing: 0.32px;
+}
+
+/* Footer */
+
+.site-footer {
+    background-color: #2E2F42;
+}
+
+.footer-text {
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    color: #F4F4FD;
+}
+
+.site-footer .studio-logo {
+    color: #F4F4FD;
+}
+
+
+
+
+
+
+
+
+
