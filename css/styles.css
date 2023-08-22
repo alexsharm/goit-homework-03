@@ -236,11 +236,11 @@ button {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   text-align: center;
+  margin-bottom: 72px;
 }
 
 .team-list {
   display: flex;
-  margin-top: 72px;
   gap: 24px;
 }
 
@@ -249,7 +249,6 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 32px;
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
   background: var(--white, #fff);
@@ -269,9 +268,9 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 8px;
   width: 264px;
   padding-bottom: 32px;
+  padding-top: 32px;
 }
 
 .third-section-title {
@@ -279,11 +278,14 @@ button {
   letter-spacing: 0.4px;
   font-weight: 500;
   line-height: 120%;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .third-section-text {
   font-size: 16px;
   letter-spacing: 0.32px;
+  text-align: center;
 }
 
 /* Forth section */
