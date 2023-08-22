@@ -108,7 +108,10 @@ a {
 
 header .studio-logo {
   color: #2e2f42;
-  margin-right: 76px;
+}
+
+.header-logo {
+    margin-right: 76px;
 }
 
 /* Navigation */
