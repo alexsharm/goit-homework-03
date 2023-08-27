@@ -59,7 +59,6 @@ a {
 .header-container {
   display: flex;
   justify-content: space-between;
-
 }
 
 .header-list {
@@ -80,8 +79,8 @@ a {
 }
 
 .header-link {
-    padding-top: 24px;
-    padding-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 /* Contacts(header) */
@@ -118,7 +117,7 @@ header .studio-logo {
 }
 
 .header-logo {
-    margin-right: 76px;
+  margin-right: 76px;
 }
 
 /* Navigation */
@@ -372,6 +371,6 @@ button {
 }
 
 .footer-logo {
-    display: inline-block;
-    margin-bottom: 16px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
